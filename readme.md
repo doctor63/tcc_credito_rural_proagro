@@ -1,5 +1,4 @@
-# Risco Ambiental e Crédito Rural: Desmatamento, Embargo e Contratação em Operações com Proagro (2017–2026)
-
+---
 Repositório com o pipeline SQL (PostgreSQL/PostGIS) e script em Python para Google Earth Engine desenvolvidos para o Trabalho de Conclusão de Curso em Agronomia pela Faculdade de Agronomia e Medicina Veterinária (FAV) da Universidade de Brasília (UnB).
 
 ---
