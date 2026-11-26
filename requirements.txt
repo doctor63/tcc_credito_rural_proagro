@@ -1,0 +1,5 @@
+# Processamento e exportação de séries históricas via Google Earth Engine
+earthengine-api>=0.1.400
+pandas>=2.0.0
+tqdm>=4.66.0
+
